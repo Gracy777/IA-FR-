@@ -1,4 +1,3 @@
-# IA-FR-
 import streamlit as st
 from face_analyzer import FaceAnalyzer
 import io
